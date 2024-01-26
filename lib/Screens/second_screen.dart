@@ -25,7 +25,7 @@ class SecondScreen extends StatelessWidget {
               },
             ),
             Container(height: 50,),
-             Text('اققفل يروحمك',
+           Text("ssss",
                 style: TextStyle(
                   fontSize: 102,
                   fontWeight: FontWeight.bold, 
